@@ -1,2 +1,2 @@
 # Dumbbell
-LAMMPS scripts and analysis code for dummbell diffuision in complex fluids
+LAMMPS scripts and analysis code for dumbbell diffuision in complex fluids
